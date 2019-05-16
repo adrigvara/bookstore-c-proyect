@@ -1,0 +1,16 @@
+Realizar un árbol B+ que:
+
+- Inserte
+- elimine
+- fusione
+- Busque
+-  en modo gráfico
+- muestre el camino de búsqueda.
+- de manera animada realice las operaciones.
+- El dato de los nodos debe contener información de libros en una biblioteca
+- los datos deben ser consultados por el click en el nodo.
+- Medir el tiempo de búsqueda.
+
+Adjuntar código.
+
+g++ proyect.cpp -lGL -lGLU -lglut -lm -lglui
